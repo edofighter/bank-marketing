@@ -1,0 +1,25 @@
+#phython
+__pycache_/
+*.py[cood]
+*.egg.info/
+*.log
+
+#Entornos / IDE
+.vemv/
+env/
+.vscode/
+.idea/
+.DS_Store
+
+#Datos y modelos (repo liviano)
+data/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+models/*
+!models/.gitkeep
+
+#Reportes grandes
+reports/figures/*
+!reports/figures/.gitkeep
