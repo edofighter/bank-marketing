@@ -52,5 +52,6 @@ Python → pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost
 ✨ Autor
 
 Edo Fighter
-🔗 LinkedIn 
+🔗 LinkedIn https://www.linkedin.com/in/edosanchez/
+
 💻 GitHub
