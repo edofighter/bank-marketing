@@ -1,0 +1,10 @@
+paths:
+  raw: "data/raw/bank_marketing.csv"
+  processed_dir: "data/processed"
+  models_dir: "models"
+  figures_dir: "reports/figures"
+
+data:
+  openml_id: 1461
+  target: "y"
+  leakage_features: ["duration"]  # no usar en el modelo final
