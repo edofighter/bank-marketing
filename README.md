@@ -3,6 +3,7 @@
 Este repositorio contiene un proyecto de Machine Learning orientado a predecir la contratación de un depósito a plazo por parte de clientes bancarios, utilizando el dataset Bank Marketing (UCI)
 
 🚀 Estructura del proyecto
+**
 bank-marketing-ml/
 ├── data/
 │   ├── raw/         # Datos originales
@@ -16,6 +17,7 @@ bank-marketing-ml/
 │   └── get_data.py
 ├── models/          # Modelos entrenados
 ├── requirements.txt
+**
 
 data/raw → Conjunto de datos originales (CSV de OpenML, ID 1461).
 data/processed → Datos limpios y preparados para el modelado.
@@ -48,4 +50,5 @@ Los resultados y modelos entrenados se guardan automáticamente en las carpetas 
 
 🛠️ Tecnologías
 Python → pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost
+
 
