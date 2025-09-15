@@ -49,9 +49,3 @@ Los resultados y modelos entrenados se guardan automáticamente en las carpetas 
 🛠️ Tecnologías
 Python → pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost
 
-✨ Autor
-
-Edo Fighter
-🔗 LinkedIn https://www.linkedin.com/in/edosanchez/
-
-💻 GitHub
